@@ -1,0 +1,1 @@
+This is my paper implementation of titled "Cognitive Video Surveillance Management in Hierarchical Edge Computing System with Long Short-Term Memory Model". 
