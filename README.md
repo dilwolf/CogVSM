@@ -16,4 +16,4 @@ The system consists of two edge nodes: the first edge node and the second edge n
 
 While motion tracking on the Jetson Nano proved too slow for real-time monitoring, our hierarchical edge computing system optimizes performance by offloading motion tracking to the second edge node.
 
-For more details, refer to the original paper.
+For more details, refer to the [original paper](https://www.mdpi.com/1424-8220/23/5/2869).
