@@ -1,6 +1,0 @@
-*.pb linguist-detectable=false
-*.pbi linguist-detectable=false
-*.pbf linguist-detectable=false
-*.py linguist-detectable=true
-*.cpp linguist-detectable=true
-*.c linguist-detectable=true
