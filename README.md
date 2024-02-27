@@ -8,9 +8,9 @@ The system consists of two edge nodes: the first edge node and the second edge n
 
 ### Edge Node Configuration
 
-- **First Edge Node**: Responsible for object detection using YOLOv7-tiny model. Utilizes Jetson Nano with an ARM A56 CPU and NVIDIA Maxwell GPU. Connected to an IP camera via USB.
+- **First Edge Node (Client Side)**: Responsible for object detection using YOLOv7-tiny model. Utilizes Jetson Nano with an ARM A56 CPU and NVIDIA Maxwell GPU. Connected to an IP camera via USB.
   
-- **Second Edge Node**: Conducts future object occurrence prediction with LSTM, controls threshold values, and implements motion tracking using TF-pose-estimation. 
+- **Second Edge Node (Server Side)**: Conducts future object occurrence prediction with LSTM, controls threshold values, and implements motion tracking using TF-pose-estimation. 
 
 ### Performance
 
