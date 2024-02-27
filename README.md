@@ -1,4 +1,4 @@
-## Cognitive Video Surveillance Management
+## CogVSM framework
 
 This project implements a hierarchical edge computing system with a Long Short-Term Memory (LSTM) model for cognitive video surveillance management, as described in the paper titled "Cognitive Video Surveillance Management in Hierarchical Edge Computing System with Long Short-Term Memory Model".
 
