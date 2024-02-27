@@ -1,0 +1,10 @@
+pip install tensorflow[and-cuda]
+pip install opencv-python
+pip install onnxruntime
+pip install tqdm
+pip install slidingwindow
+pip install scipy
+pip install tf-slim
+pip install pycocotools
+pip install ipywidgets
+
