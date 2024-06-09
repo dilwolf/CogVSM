@@ -10,7 +10,7 @@ if __name__ == '__main__':
     # TODO: run data manager
     # TODO: run process manager
     # socket connection part
-    HOST, PORT = ('192.9.202.212', 9998) #Put your ip address
+    HOST, PORT = ('', 9998) #Put your ip address
     HOST_PORT = (HOST, PORT)
     clients_limit = 10
 
