@@ -86,7 +86,7 @@ class ThreadedClient(object):
         self.sock.close()
 
 def main():
-    host_ip = '192.9.202.212' # Here according to your server ip write the address
+    host_ip = '' # Here according to your server ip write the address
     port =  9998   #port = int(input())
     print('HOST IP:', host_ip)
     while True:
